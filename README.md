@@ -1,3 +1,12 @@
+Projeto feito com o intuito de estudo:
+Pode ser conferido em: https://netflix-clone-d4938.web.app/
+
+Tecnologias utilizadas:
+. React
+.axios
+.movie trailler
+. firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
