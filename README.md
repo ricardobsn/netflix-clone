@@ -1,11 +1,17 @@
 Projeto feito com o intuito de estudo:
-Pode ser conferido em: https://netflix-clone-d4938.web.app/
+Clone da loja da amazon.
+Features: logar criando sua conta,  colocar os itens no carrinho, fechar o pedido, processar o pagamento ( pode usar sequencia de 424242424242424242 para teste no campo do cartão)
+mostra os pedidos feitos.
+Pode ser conferido em: https://clone-6bd90.web.app/
 
 Tecnologias utilizadas:
-. React
+.React
+.css
 .axios
-.movie trailler
-. firebase
+.express
+.stripe (pagamento)
+.node
+.firebase (autenticação, processar os pedidos e deploy)
 
 # Getting Started with Create React App
 
